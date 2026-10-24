@@ -229,6 +229,32 @@ export const projectsData: Project[] = [
     live: 'https://srcstash.vercel.app/',
     tags: ['Bookmarking', 'Developer Tools', 'Productivity', 'Dashboard UI'],
   },
+    {
+    title: 'Trampoline Park Website',
+    image: '/trampoline.png',
+    description:
+      'An interactive trampoline park website designed to showcase attractions, highlight activities, and help visitors explore the park and plan their visit.',
+    date: '10.2026',
+    problem:
+      'Trampoline parks need an engaging online presence to showcase activities, attract families and kids, and help visitors find essential information before visiting.',
+    approach:
+      'Designed a modern, animation-rich website with engaging visuals, smooth scrolling, and responsive layouts to showcase attractions and improve visitor engagement.',
+    infra:
+      'Next.js · React · TypeScript · Tailwind CSS · Framer Motion · Lenis',
+    challenge:
+      'Creating an immersive, playful experience with smooth animations while maintaining performance and responsiveness across devices.',
+    outcome:
+      'Developed a modern, responsive website experience to showcase trampoline park attractions and encourage visitors to explore activities and plan their visit.',
+    github: '',
+    live: 'https://upintheair.vercel.app/',
+    tags: [
+      'Web Design',
+      'Animations',
+      'Responsive UI',
+      'Framer Motion',
+      'Performance',
+    ],
+  },
   {
     title: 'NovaShape Interactive 3D Experience',
     image: "/novashape.png",
